@@ -7,3 +7,4 @@
  */
 
 define("APP_NAME","APP");
+define("APP_DEBUG",
